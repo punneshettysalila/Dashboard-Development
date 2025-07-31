@@ -21,7 +21,7 @@ To build an interactive dashboard for visualizing India's historical rainfall da
 
 ---
 
-## ## 📝 Task Description
+## 📝 Task Description
 
 As part of the Data Analytics Virtual Internship at **CODTECH IT SOLUTIONS PVT. LTD.**, Task 3 focused on developing a professional, interactive **data visualization dashboard**. The main objective was to gain hands-on experience with dashboard creation using Python libraries like **Dash**, **Plotly**, and **Pandas**.
 
