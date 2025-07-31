@@ -77,10 +77,15 @@ This task bridges the gap between raw data and meaningful insight — showcasing
 
 ## 📂 Folder Structure
 rainfall-dashboard-task3/
+
 ├── app.py # Dash app code
+
 ├── requirements.txt # Dependencies
+
 ├── README.md # Project documentation
+
 └── data/
+
 └── Rainfall_Data_LL.csv # Dataset from Kaggle
 
 ## How to Run the Project
